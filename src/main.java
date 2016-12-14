@@ -5,7 +5,7 @@ public class main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello m8");
+		affichageCarte cc = new affichageCarte();
 
 	}
 
